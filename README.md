@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @masek-on
 - 👀 I’m interested in Biomedical Engineering (student)
-- 🌱 I’m currently learning C++, C#
+- 🌱 I’m currently learning C++, C#, Git
 - 💞️ I’m looking to collaborate on ... (to be filled in when proper programming skills in acceptable way are adopted)
 - 📫 How to reach me ... (only here on github for a some time)
 
